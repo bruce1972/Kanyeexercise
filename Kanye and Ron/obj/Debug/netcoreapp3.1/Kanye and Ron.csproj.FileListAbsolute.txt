@@ -1,0 +1,15 @@
+C:\Users\bbruj\repos\Kanye and Ron\Kanye and Ron\bin\Debug\netcoreapp3.1\Kanye and Ron.exe
+C:\Users\bbruj\repos\Kanye and Ron\Kanye and Ron\bin\Debug\netcoreapp3.1\Kanye and Ron.deps.json
+C:\Users\bbruj\repos\Kanye and Ron\Kanye and Ron\bin\Debug\netcoreapp3.1\Kanye and Ron.runtimeconfig.json
+C:\Users\bbruj\repos\Kanye and Ron\Kanye and Ron\bin\Debug\netcoreapp3.1\Kanye and Ron.runtimeconfig.dev.json
+C:\Users\bbruj\repos\Kanye and Ron\Kanye and Ron\bin\Debug\netcoreapp3.1\Kanye and Ron.dll
+C:\Users\bbruj\repos\Kanye and Ron\Kanye and Ron\bin\Debug\netcoreapp3.1\Kanye and Ron.pdb
+C:\Users\bbruj\repos\Kanye and Ron\Kanye and Ron\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\bbruj\repos\Kanye and Ron\Kanye and Ron\obj\Debug\netcoreapp3.1\Kanye and Ron.csprojAssemblyReference.cache
+C:\Users\bbruj\repos\Kanye and Ron\Kanye and Ron\obj\Debug\netcoreapp3.1\Kanye and Ron.AssemblyInfoInputs.cache
+C:\Users\bbruj\repos\Kanye and Ron\Kanye and Ron\obj\Debug\netcoreapp3.1\Kanye and Ron.AssemblyInfo.cs
+C:\Users\bbruj\repos\Kanye and Ron\Kanye and Ron\obj\Debug\netcoreapp3.1\Kanye and Ron.csproj.CoreCompileInputs.cache
+C:\Users\bbruj\repos\Kanye and Ron\Kanye and Ron\obj\Debug\netcoreapp3.1\Kanye and Ron.csproj.CopyComplete
+C:\Users\bbruj\repos\Kanye and Ron\Kanye and Ron\obj\Debug\netcoreapp3.1\Kanye and Ron.dll
+C:\Users\bbruj\repos\Kanye and Ron\Kanye and Ron\obj\Debug\netcoreapp3.1\Kanye and Ron.pdb
+C:\Users\bbruj\repos\Kanye and Ron\Kanye and Ron\obj\Debug\netcoreapp3.1\Kanye and Ron.genruntimeconfig.cache
